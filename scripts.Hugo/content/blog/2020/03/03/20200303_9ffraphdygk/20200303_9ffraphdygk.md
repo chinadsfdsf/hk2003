@@ -1,0 +1,43 @@
+---
+title : "memehongkong:英雄式豪放風格  比較辛棄疾與蘇東坡之別〈昔日精華重溫：蕭若元說新高中中國語文範文〉 "
+date:        2020-03-03T21:33:20-07:00
+author:
+ - youtube_memehongkong
+tags:
+ - youtube
+ - memehongkong
+ - youtube_memehongkong
+ - 202003
+ - 20200303
+ - 20200303_21
+categories:
+ - 20200303
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="memehongkong:全文連結： 辛棄疾《西江月‧遣興》〈宋詞三首(十)@新高中中國語文範文〉 https://youtu.be/4qFBwm6_hpU  謎米新聞：news.memehk.com 謎米香港： www.memehk.com Facebook：www.facebook.com/memehkdotcom "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200303_9ffraphdygk.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="memehongkong:英雄式豪放風格  比較辛棄疾與蘇東坡之別〈昔日精華重溫：蕭若元說新高中中國語文範文〉 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=9fFRAPhdygk"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+
