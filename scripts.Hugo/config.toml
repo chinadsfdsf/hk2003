@@ -175,7 +175,8 @@ anchor = "smart"
 [[menu.main]]
   weight = 5
   name   = "所有文章"
-  url    = "/blog"
+  #url    = "/blog"
+  url    = "/tags/"
   pre    = "fas fa-rss"
 
 # [[menu.main]]
