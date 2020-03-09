@@ -1,0 +1,43 @@
+---
+title : "Citizen_Laohei公民老黑:還是祖國最安全，海外華人回家吧，謝謝了！ "
+date:        2020-03-09T10:25:15-07:00
+author:
+ - youtube_Citizen_Laohei公民老黑
+tags:
+ - youtube
+ - Citizen_Laohei公民老黑
+ - youtube_Citizen_Laohei公民老黑
+ - 2020_03
+ - 2020_0309
+ - 2020_0309_10
+categories:
+ - 2020_0309
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="Citizen_Laohei公民老黑:#海外華人 #人在海外心繫祖國  为什么加入我的会员 老黑想站着把钱赚了！ 这一个理由够吗？ https://www.youtube.com/channel/UCtLgwBOza-dnuaBg6W6YXog/join  关注推特： https://twitter.com/heiyun799 "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200309_dp_lza_vdzk.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="Citizen_Laohei公民老黑:還是祖國最安全，海外華人回家吧，謝謝了！ "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=DP-LZA_vDZk"
+en="the origin source link" cn="原始來源網址"
+>}}
+
+
+<br>
+
