@@ -689,7 +689,7 @@
   <!-- partials/resource.image.html  --> 
 
 
-    <div class="w3-right"><i class="far fa-calendar" aria-hidden="true"></i>&nbsp;<i>8. Mar 2020</i></div>memehongkong:   YN03220200308_ioaxznmuxvm.mp4 下载视频 2894244 byte , 2.8 MiB 20200308_ioaxznmuxvm.mp4 下载 jpg  部分手机显示不正常， 请横屏播放，或全屏播放  memehongkong:最新數據更新 病毒在不同溫度有什麼表現？〈蕭若元：蕭氏新聞台〉2020-03-08   原始來源網址    V单 …
+    <div class="w3-right"><i class="far fa-calendar" aria-hidden="true"></i>&nbsp;<i>8. Mar 2020</i></div>memehongkong:   YN03220200308_ioaxznmuxvm.mp4 下载视频 2894244 byte , 2.8 MiB 20200308_ioaxznmuxvm.mp4 下载 jpg  部分手机显示不正常， 请横屏播放，或全屏播放  memehongkong:最新數據更新 病毒在不同溫度有什麼表現？〈蕭若元：蕭氏新聞台〉2020-03-08   原始來源網址  单曲   …
 
   </div>
 </a>
@@ -1024,8 +1024,26 @@
     }
     startTime();
 })();
+    <!-- mytime12 end -->
+
+function copy2clipboard(text) {
+    if (!navigator.clipboard) {
+        fallbackCopyTextToClipboard(text);
+        return;
+    }
+    navigator.clipboard.writeText(text)
+}
+function abspath2(path2) {
+    return new URL( path2 , window.location.href ).href;
+}
+function copypath2clipboard(text3) {
+    copy2clipboard( abspath2(text3) )
+}
+function gotopath4(goto4) {
+    window.setTimeout(function(){window.top.location=abspath2(goto4)} , 1000);
+}
+
 </script>
-    
 
 
   </body>
